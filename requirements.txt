@@ -1,0 +1,13 @@
+pyttsx3
+SpeechRecognition
+wikipedia-api
+openai
+opencv-python
+opencv-python-headless
+pywhatkit
+
+setuptools~=49.2.0
+adbutils~=0.8.1
+pyfiglet~=0.8.post1
+rich~=4.2.0
+colorama~=0.4.3
